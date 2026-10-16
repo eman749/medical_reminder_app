@@ -66,19 +66,3 @@ lib/
     └── main_navigation_screen.dart    # شريط التنقل السفلي (Bottom Navigation)
 ```
 
----
-
-## 🚀 كيفية تشغيل المشروع
-
-1. تأكد من فتح المجلد في محرر الأكواد (VS Code / Android Studio):
-   ```bash
-   cd C:\Users\DELL\.gemini\antigravity\scratch\medical_reminder_app
-   ```
-2. تثبيت الحزم:
-   ```bash
-   flutter pub get
-   ```
-3. تشغيل التطبيق (على الهاتف أو المحاكي أو Chrome):
-   ```bash
-   flutter run
-   ```
